@@ -9,7 +9,8 @@
         "laravel/framework": "5.3.*",
         "yohang88/letter-avatar": "^1.0",
         "vinkla/pusher": "^3.0",
-        "nahid/talk": "dev-master"
+        "nahid/talk": "dev-master",
+        "wilsonglasser/laravel-chatapi-whatsapp": "^1.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

@@ -16,7 +16,7 @@ class UsersTableSeeder extends Seeder
         $users = [
             [
                 "name"          => "alice",
-                "email"         => "alice@alice.com",
+                "email"         => "alice@alice.com ",
                 "password"      => bcrypt('123456'),
                 "created_at"    => Carbon::now()->format('Y-m-d H:i:s'),
                 "updated_at"    => Carbon::now()->format('Y-m-d H:i:s')
